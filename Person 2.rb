@@ -36,9 +36,7 @@ Michelle = Suspect.new("michelle", "girl", "black", "brown", "brown")
 Tyson    = Suspect.new("tyson", "boy", "black", "black", "brown")
 Ursula   = Suspect.new("ursula", "girl", "white", "auburn", "green")
 
-sus = []
-sus << Rachel
-sus.any? { |s| s.even? }
+print Suspect.all
 
 
 
