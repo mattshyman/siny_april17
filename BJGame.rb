@@ -7,7 +7,7 @@ deck = Cards.new
 player = Player.new
 dealer = Dealer.new
 deck.cards.shuffle!
-puts "Welcome to Blackjack."
+puts "Welcome to Blackjack!"
 sleep (2)
 print "Your cards are:  "
 dealer.deal_to_player(player, deck)
