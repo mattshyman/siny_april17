@@ -10,6 +10,3 @@ class Player
 		instance.hand.inject(:+)
   		end
 	end
-
-
-

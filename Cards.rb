@@ -13,9 +13,3 @@ class Cards
 		@cards.shuffle!
 	end
 end
-
-
-
-
-
-

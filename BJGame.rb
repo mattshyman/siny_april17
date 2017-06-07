@@ -17,26 +17,3 @@ sleep(2)
 dealer.deal_to_dealer(dealer, deck)
 sleep(2)
 dealer.play(player, dealer, deck)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
