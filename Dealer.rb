@@ -93,4 +93,3 @@ attr_accessor :d_hand
 	end
 end
 end
-
